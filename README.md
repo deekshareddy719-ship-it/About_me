@@ -12,10 +12,15 @@ Hi! I'm N.Deeksha ,a B.Tech student specializing in Artificial Intelligence & Da
 💻 Skills
 
  . Python
+ 
  . c
- . Advanced C 
+ 
+ . Advanced C
+ 
  . Html
+ 
  . Communication
+ 
  . Teamwork
  
 🚀 Projects
