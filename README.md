@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👩‍💻 About Me
 
-<!--
-**deekshareddy719-ship-it/deekshareddy719-ship-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm **N. Deeksha** 👋
 
-Here are some ideas to get you started:
+🎓 B.Tech student in "Artificial Intelligence & Data Science"
+💻 Interested in "Python, Data Science, AI & problem solving"
+🌱 Currently learning "Python, DSA, C, and Web Development"  
+🚀 Exploring projects and building my programming skills  
+🤝 Interested in "Open Source, Hackathons, and Team Projects"  
+🎯 Goal: To build strong technical skills and grow as an AI & Data Science professional
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+- Python
+- C
+- Data Structures & Algorithms
+- HTML 
+- Git & GitHub
+- Basics of Data Science
