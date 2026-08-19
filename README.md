@@ -1,6 +1,6 @@
 About Me 👋
 
-Hi!,I'm a B.Tech student specializing in Artificial Intelligence & Data Science.
+Hi! I'm N.Deeksha ,a B.Tech student specializing in Artificial Intelligence & Data Science.
 
 🎓 Education
 
@@ -12,8 +12,8 @@ Hi!,I'm a B.Tech student specializing in Artificial Intelligence & Data Science.
 💻 Skills
 
  . Python
- . C
- . Advanced C
+ . c
+ . Advanced C 
  . Html
  . Communication
  . Teamwork
