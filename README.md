@@ -1,18 +1,34 @@
-## 👩‍💻 About Me
+About Me 👋
+Hi!,I'm a B.Tech student specializing in Artificial Intelligence & Data Science.
 
-Hi! I'm **N. Deeksha** 👋
+🎓 Education
+  . B.Tech – Artificial Intelligence & Data Science
+  . REVA University, Bangalore
+  
 
-🎓 B.Tech student in "Artificial Intelligence & Data Science"
-💻 Interested in "Python, Data Science, AI & problem solving"
-🌱 Currently learning "Python, DSA, C, and Web Development"  
-🚀 Exploring projects and building my programming skills  
-🤝 Interested in "Open Source, Hackathons, and Team Projects"  
-🎯 Goal: To build strong technical skills and grow as an AI & Data Science professional
+💻 Skills
+ . Python
+ . C
+ . Advanced C
+ . Html
+ . Communication
+ . Teamwork
+ 
+🚀 Projects
+  . 2D Graphics Editor - A menu-driven graphics editor developed using C.
+  . Bluetooth Controlled Car - An IoT-based project involving a Bluetooth-controlled car using Arduino and electronic components.
+  . Cybercrime Report - A study and report on cybercrime and cybersecurity.
+  
+📜 Certifications
+  . IBM SkillsBuild Certification Course
+  . Wadhwani Foundation Certification
+  . Instagram Design System Course Certification
 
-### 🛠️ Skills
-- Python
-- C
-- Data Structures & Algorithms
-- HTML 
-- Git & GitHub
-- Basics of Data Science
+🌱 Currently Learning
+   Currently learning Python, Data Structures & Algorithms, and AI fundamentals, while improving my programming and problem-solving skills through projects.
+
+🎯 My Goals
+   My goal is to build real-world AI projects, strengthen my technical skills, and become a skilled AI & Data Science professional. I aim to continuously learn, innovate, and grow in the tech field.
+
+📫 Connect With Me
+   . GitHub: "deekshareddy719-ship-it"
