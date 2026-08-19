@@ -4,49 +4,49 @@ Hi! I'm N.Deeksha ,a B.Tech student specializing in Artificial Intelligence & Da
 
 🎓 Education
 
-  . B.Tech – Artificial Intelligence & Data Science
+    . B.Tech – Artificial Intelligence & Data Science
   
-  . REVA University, Bangalore
+    . REVA University, Bangalore
   
 
 💻 Skills
 
- . Python
+    . Python
  
- . c
+    . c
  
- . Advanced C
+    . Advanced C
  
- . Html
+    . Html
  
- . Communication
+    . Communication
  
- . Teamwork
+    . Teamwork
  
 🚀 Projects
 
-  . 2D Graphics Editor - A menu-driven graphics editor developed using C.
+    . 2D Graphics Editor - A menu-driven graphics editor developed using C.
   
-  . Bluetooth Controlled Car - An IoT-based project involving a Bluetooth-controlled car using Arduino and electronic components.
+    . Bluetooth Controlled Car - An IoT-based project involving a Bluetooth-controlled car using Arduino and electronic components.
   
-  . Cybercrime Report - A study and report on cybercrime and cybersecurity.
+    . Cybercrime Report - A study and report on cybercrime and cybersecurity.
   
 📜 Certifications
 
-  . IBM SkillsBuild Certification Course
+    . IBM SkillsBuild Certification Course
   
-  . Wadhwani Foundation Certification
+    . Wadhwani Foundation Certification
   
-  . Instagram Design System Course Certification
+    . Instagram Design System Course Certification
 
 🌱 Currently Learning
 
-   Currently learning Python, Data Structures & Algorithms, and AI fundamentals, while improving my programming and problem-solving skills through projects.
+    Currently learning Python, Data Structures & Algorithms, and AI fundamentals, while improving my programming and problem-solving skills through projects.
 
 🎯 My Goals
 
-   My goal is to build real-world AI projects, strengthen my technical skills, and become a skilled AI & Data Science professional. I aim to continuously learn, innovate, and grow in the tech field.
+    My goal is to build real-world AI projects, strengthen my technical skills, and become a skilled AI & Data Science professional. I aim to continuously learn, innovate, and grow in the tech field.
 
 📫 Connect With Me
 
-   . GitHub: "deekshareddy719-ship-it"
+    . GitHub: "deekshareddy719-ship-it"
