@@ -50,6 +50,11 @@ Hi! I'm N.Deeksha ,a B.Tech student specializing in Artificial Intelligence & Da
 📫 Connect With Me
 
  . GitHub: "deekshareddy719-ship-it"
+ . Linkedin: www.linkedin.com/in/n-deeksha-511620384 
+ 
+ # Project Focus
+
+   I enjoy building practical projects that combine programming, data, and problem-solving. My projects help me strengthen my technical knowledge and gain hands- on development experience.
  
  # Technical Interests
 
