@@ -50,3 +50,7 @@ Hi! I'm N.Deeksha ,a B.Tech student specializing in Artificial Intelligence & Da
 📫 Connect With Me
 
  . GitHub: "deekshareddy719-ship-it"
+ 
+ # Technical Interests
+
+I am interested in Artificial Intelligence, Data Science, Machine Learning, and software development. I enjoy learning new technologies and applying them through practical projects.
